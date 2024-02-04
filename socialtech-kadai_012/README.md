@@ -1,0 +1,2 @@
+#li要素とli要素class名 case-card
+cssにおいてli要素の編集とli要素に名前をつけたclass名case‐cardをなぜ分けて編集をするのかわからなかった
