@@ -305,7 +305,6 @@ h3 {
   color: #2710d5;
   font-size: 19px;
   margin: 80px 0 0 0;
-  Ï
 }
 
 .vision-box>span>h4::first-letter {
@@ -319,6 +318,44 @@ h3 {
 
 .vision-box>span>p {
   margin: 10px 0 0 0;
+}
+
+/* cases */
+#cases {
+  margin: 40px 0 40px 0;
+  width: 100%;
+}
+/*  */
+ul {
+  display: flex;
+}
+/*  */
+li {
+  width: 33%;
+  margin: 20px;
+}
+/*  */
+.case-card {
+  background-color: #ffffff;
+  min-height: 400px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+/*  */
+.case-img {
+  width: 100%;
+}
+/*  */
+.case-info {
+  padding: 10px 20px 10px 20px;
+}
+/*  */
+.case-name {
+  color: #2710d5;
+  font-size: 19px;
+}
+/*  */
+.case-content {
+  font-size: 14px;
 }
 
 /* 会社概要 */
